@@ -38,14 +38,18 @@ to contribute to for your term project (highly recommended!)
         VI.     Project Website and/or Blog
 
     A.  Describe software project, its purpose and goals.
+	"Socket.IO enables real-time bidirectional event-based communication."
 
     B.  Give brief history of the project. When was the Initial Commit? The
         latest commit?
+	The initial commit was: May 1, 2011
+	The most recent commit was: 23 Days ago
 
     C.  Who approves patches? How many people?
 
     D.  Who has commit access, or has had patches accepted?  How many
         total?
+	The project has 86 contributors who have had patches accepted. Those contributors have had 1,391 commits. 
 
     E.  Who has the highest amounts of "Unique Knowledge?" (As per your
         "Git-by-a-bus" report. If there is a tie, list each contributor, with
@@ -56,9 +60,11 @@ to contribute to for your term project (highly recommended!)
     G.  Has there been any turnover in the Core Team? (i.e. has the same
         top 20% of contributors stayed the same over time? If not, how has
         it changed?)
+	rauchg has had the most commits and has been working on the project since the start. The other top contributors no longer seem to contribute to the project. Beyond the top six contributors, everyone has contributed less than ten commits. 
 
     H.  Does the project have a BDFL, or Lead Developer? (BDFL ==
         Benevolent Dictator for Life)
+	One lead developer seems to do the majority of the development. They have authored 741 commits of the 1,391. Over half.
 
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
@@ -68,13 +74,16 @@ to contribute to for your term project (highly recommended!)
         and bug repair?
 
     K.  How is the project's participation trending and why?
+	The project's participation has varied highly over time. Over the last year it has been more steady, and that trend seems to continue into 2015. 
 
     L.  In your opinion, does the project pass "The Raptor Test?"
         (i.e. Would the project survive if the BDFL, or most active
         contributor were eaten by a Velociraptor?) Why or why not?
+	No. The lead developer seems to have a lot of unique knowledge, and seems to do the vast majority of the actual writing. 
 
     M.  In your opinion, would the project survive if the core team, or
         most active 20% of contributors, were hit by a bus? Why or why not?
+	No. Beyond the top six contributors most people have contirbuted relatively little work. 
 
     N.  Does the project have an official "on-boarding" process in place?
         (new contributor guides, quickstarts, communication leads who focus
@@ -82,9 +91,11 @@ to contribute to for your term project (highly recommended!)
 
     O.  Does the project have Documentation available? Is it extensive?
         Does it include code examples?
+	The project has documentation on how to implement it from the users' standpoint. There doesn't seem to be information on on-boarding new developers. 
 
     P.  If you were going to contribute to this project, but ran into
         trouble or hit blockers, who would you contact, and how?
+	They have an active Slack channel. That is where they direct people with questions.
 
     Q.  Based on these answers, how would you describe the decision making
         structure/process of this group?  Is it hierarchical, consensus
