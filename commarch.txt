@@ -61,7 +61,7 @@ to contribute to for your term project (highly recommended!)
         "Git-by-a-bus" report. If there is a tie, list each contributor, with
         links if possible)
 
-	-----ANSWER REQUIRES GIT BY A BUS-----
+	According to the report created by Git By A Bus, Guillermo Rauch (rauchg) has the highest amount of unique knowledge (by a significant margin)
 
     F.  What is your project's "Calloway Coefficient of Fail?"
 
