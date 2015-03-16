@@ -80,13 +80,13 @@ to contribute to for your term project (highly recommended!)
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
 
-	-----ANSWER-----
+	The front and back end developers are the same people. There is no GUI so the front end development is minimal. 
 
-    J.  What have been some of the major bugs/problems/issues that have
+    J.  What have been some of the major bugs/problems/issues that 
         arisen during development? Who is responsible for quality control
         and bug repair?
 
-	-----ANSWER-----
+	The biggest issue people have seems to be with unexpected disconnects. This issue is normally caused by the user, and they typically figure out how to fix it. The vast majority of issues reported are solved by the reporter and don't seem to be the fault of socket.io itself. There don't seem to have been many issues that were serious blockers. Most actual bugs in the past have been related to connection/disconnection issues on one specific platform. 
 
     K.  How is the project's participation trending and why?
 	
