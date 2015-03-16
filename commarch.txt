@@ -102,13 +102,13 @@ to contribute to for your term project (highly recommended!)
     M.  In your opinion, would the project survive if the core team, or
         most active 20% of contributors, were hit by a bus? Why or why not?
 
-	No. Beyond the top six contributors most people have contirbuted relatively little work.
+	No. Beyond the top six contributors most people have contributed relatively little work.
 
     N.  Does the project have an official "on-boarding" process in place?
         (new contributor guides, quickstarts, communication leads who focus
         specifically on newbies, etc...)
 
-	No official on-boarding process, but they do actively direct people to their slack channel.
+	No official on-boarding process, but they do actively direct people to their Slack channel.
 
     O.  Does the project have Documentation available? Is it extensive?
         Does it include code examples?
