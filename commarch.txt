@@ -80,7 +80,7 @@ to contribute to for your term project (highly recommended!)
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
 
-	-----ANSWER-----
+	Due to the nature of the project, the distinction between back- and front-development isn't entirely clear, if there is one at all.  The commits suggest that the five or six main contributors allocate their efforts evenly across the project's codebase.  
 
     J.  What have been some of the major bugs/problems/issues that have
         arisen during development? Who is responsible for quality control
