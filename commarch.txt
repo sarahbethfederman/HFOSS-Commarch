@@ -81,11 +81,7 @@ to contribute to for your term project (highly recommended!)
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
 
-<<<<<<< HEAD
 	The front and back end developers are the same people. There is no GUI so the front end development is minimal. 
-=======
-	Due to the nature of the project, the distinction between back- and front-development isn't entirely clear, if there is one at all.  The commits suggest that the five or six main contributors allocate their efforts evenly across the project's codebase.
->>>>>>> master
 
     J.  What have been some of the major bugs/problems/issues that 
         arisen during development? Who is responsible for quality control
