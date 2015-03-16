@@ -65,7 +65,7 @@ to contribute to for your term project (highly recommended!)
 
     F.  What is your project's "Calloway Coefficient of Fail?"
 
-	-----ANSWER REQUIRES CALLOWAY COEF-----
+	15pts, lack of email list
 
     G.  Has there been any turnover in the Core Team? (i.e. has the same
         top 20% of contributors stayed the same over time? If not, how has
