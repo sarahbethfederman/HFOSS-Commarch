@@ -1,4 +1,4 @@
-Humanitarian Open Source Software 
+Humanitarian Open Source Software
 Fall 2013 – Professor decause
 Original Design Professor David Shein
 
@@ -33,13 +33,13 @@ to contribute to for your term project (highly recommended!)
         I.      The project's IRC Channel
         II      Source Code repository
         III.    Mail list archive
-        IV.     Documentation 
+        IV.     Documentation
         V.      Other communication channels
         VI.     Project Website and/or Blog
 
     A.  Describe software project, its purpose and goals.
 
-	"Socket.IO enables real-time bidirectional event-based communication."
+	"Socket.IO enables real-time bidirectional event-based communication. It's a nodeJS framework that uses websockets."
 
     B.  Give brief history of the project. When was the Initial Commit? The
         latest commit?
@@ -49,17 +49,18 @@ to contribute to for your term project (highly recommended!)
 
     C.  Who approves patches? How many people?
 
-	Lead developer "rauchg" approves patches. He seems to be the only one.  
+	Lead developer "rauchg" approves patches. He seems to be the only one.
 
     D.  Who has commit access, or has had patches accepted?  How many
         total?
 
-	The project has 86 contributors who have had patches accepted. Those contributors have had 1,391 commits. 
+	The project has 86 contributors who have had patches accepted. Those contributors have had 1,391 commits.
+  Source: https://www.openhub.net/p/socketio
 
     E.  Who has the highest amounts of "Unique Knowledge?" (As per your
         "Git-by-a-bus" report. If there is a tie, list each contributor, with
         links if possible)
-	
+
 	-----ANSWER REQUIRES GIT BY A BUS-----
 
     F.  What is your project's "Calloway Coefficient of Fail?"
@@ -70,7 +71,7 @@ to contribute to for your term project (highly recommended!)
         top 20% of contributors stayed the same over time? If not, how has
         it changed?)
 
-	Contiributor "rauchg" has had the most commits and has been working on the project since the start. The other top contributors no longer seem to contribute to the project. Beyond the top six contributors, everyone has contributed less than ten commits. 
+	Contiributor "rauchg" has had the most commits and has been working on the project since the start. The other top contributors no longer seem to contribute to the project. Beyond the top six contributors, everyone has contributed less than ten commits.
 
     H.  Does the project have a BDFL, or Lead Developer? (BDFL ==
         Benevolent Dictator for Life)
@@ -80,7 +81,7 @@ to contribute to for your term project (highly recommended!)
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
 
-	Due to the nature of the project, the distinction between back- and front-development isn't entirely clear, if there is one at all.  The commits suggest that the five or six main contributors allocate their efforts evenly across the project's codebase.  
+	Due to the nature of the project, the distinction between back- and front-development isn't entirely clear, if there is one at all.  The commits suggest that the five or six main contributors allocate their efforts evenly across the project's codebase.
 
     J.  What have been some of the major bugs/problems/issues that have
         arisen during development? Who is responsible for quality control
@@ -89,34 +90,34 @@ to contribute to for your term project (highly recommended!)
 	-----ANSWER-----
 
     K.  How is the project's participation trending and why?
-	
-	The project's participation has varied highly over time. Over the last year it has been more steady, and that trend seems to continue into 2015. 
+
+	The project's participation has varied highly over time. Over the last year it has been more steady, and that trend seems to continue into 2015.
 
     L.  In your opinion, does the project pass "The Raptor Test?"
         (i.e. Would the project survive if the BDFL, or most active
         contributor were eaten by a Velociraptor?) Why or why not?
-	
-	No. The lead developer seems to have a lot of unique knowledge, and seems to do the vast majority of the actual writing. 
+
+	No. The lead developer seems to have a lot of unique knowledge, and seems to do the vast majority of the actual writing.
 
     M.  In your opinion, would the project survive if the core team, or
         most active 20% of contributors, were hit by a bus? Why or why not?
-	
-	No. Beyond the top six contributors most people have contirbuted relatively little work. 
+
+	No. Beyond the top six contributors most people have contirbuted relatively little work.
 
     N.  Does the project have an official "on-boarding" process in place?
         (new contributor guides, quickstarts, communication leads who focus
         specifically on newbies, etc...)
-	
-	No official on-boarding process, but they do actively direct people to their slack chanel. 
+
+	No official on-boarding process, but they do actively direct people to their slack chanel.
 
     O.  Does the project have Documentation available? Is it extensive?
         Does it include code examples?
-	
-	The project has documentation on how to implement it from the users' standpoint. There doesn't seem to be information on on-boarding new developers. 
+
+	The project has documentation on how to implement it from the users' standpoint. There doesn't seem to be information on on-boarding new developers.
 
     P.  If you were going to contribute to this project, but ran into
         trouble or hit blockers, who would you contact, and how?
-	
+
 	They have an active Slack channel. That is where they direct people with questions.
 
     Q.  Based on these answers, how would you describe the decision making
@@ -129,7 +130,7 @@ to contribute to for your term project (highly recommended!)
     R.  Is this the kind of structure you would enjoy working in? Why, or
         why not?
 
-	In this case, it seems like a fine system. The lead developer is active and quick to respond. He seems to make well informed choices for the good of the project. Most people would probably be fine working in this system. 
+	In this case, it seems like a fine system. The lead developer is active and quick to respond. He seems to make well informed choices for the good of the project. Most people would probably be fine working in this system.
 
 5.  Write up a set of answers to these questions including how you arrived at
     your conclusions (links, convo quotes, irc logs, email threads, etc.) to be
