@@ -71,7 +71,7 @@ to contribute to for your term project (highly recommended!)
         top 20% of contributors stayed the same over time? If not, how has
         it changed?)
 
-	Contiributor "rauchg" has had the most commits and has been working on the project since the start. The other top contributors no longer seem to contribute to the project. Beyond the top six contributors, everyone has contributed less than ten commits.
+	Contributor "rauchg" has had the most commits and has been working on the project since the start. The other top contributors no longer seem to contribute to the project. Beyond the top six contributors, everyone has contributed less than ten commits.
 
     H.  Does the project have a BDFL, or Lead Developer? (BDFL ==
         Benevolent Dictator for Life)
@@ -81,13 +81,13 @@ to contribute to for your term project (highly recommended!)
     I.  Are the front and back end developers the same people? What is the
         proportion of each?
 
-	The front and back end developers are the same people. There is no GUI so the front end development is minimal. 
+	The front and back end developers are the same people. There is no GUI so the front end development is minimal.
 
-    J.  What have been some of the major bugs/problems/issues that 
+    J.  What have been some of the major bugs/problems/issues that
         arisen during development? Who is responsible for quality control
         and bug repair?
 
-	The biggest issue people have seems to be with unexpected disconnects. This issue is normally caused by the user, and they typically figure out how to fix it. The vast majority of issues reported are solved by the reporter and don't seem to be the fault of socket.io itself. There don't seem to have been many issues that were serious blockers. Most actual bugs in the past have been related to connection/disconnection issues on one specific platform. 
+	The biggest issue people have seems to be with unexpected disconnects. This issue is normally caused by the user, and they typically figure out how to fix it. The vast majority of issues reported are solved by the reporter and don't seem to be the fault of socket.io itself. There don't seem to have been many issues that were serious blockers. Most actual bugs in the past have been related to connection/disconnection issues on one specific platform.
 
     K.  How is the project's participation trending and why?
 
@@ -102,13 +102,13 @@ to contribute to for your term project (highly recommended!)
     M.  In your opinion, would the project survive if the core team, or
         most active 20% of contributors, were hit by a bus? Why or why not?
 
-	No. Beyond the top six contributors most people have contirbuted relatively little work.
+	No. Beyond the top six contributors most people have contributed relatively little work.
 
     N.  Does the project have an official "on-boarding" process in place?
         (new contributor guides, quickstarts, communication leads who focus
         specifically on newbies, etc...)
 
-	No official on-boarding process, but they do actively direct people to their slack chanel.
+	No official on-boarding process, but they do actively direct people to their Slack channel.
 
     O.  Does the project have Documentation available? Is it extensive?
         Does it include code examples?
